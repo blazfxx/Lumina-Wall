@@ -9,20 +9,10 @@ LuminaWall is a macOS wallpaper app built with SwiftUI. It manages a local libra
 - Thumbnail generation and upscaling utilities
 
 ## Requirements
-- macOS 15
-- Swift 6.2
+- macOS 26
 
-## Build and Run
-```bash
-swift build
-swift run
-```
-
-## Project Layout
-- `Sources/LuminaWall`: App source code
-- `Sources/LuminaWall/LuminaWall.xcassets`: App assets
-- `Website`: Marketing site assets
-- `packaging`, `scripts`: Build and packaging helpers
+## Downloads
+[releases](https://github.com/blazfxx/Lumina-Wall/releases)
 
 ## License
 Not specified.
