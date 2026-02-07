@@ -14,5 +14,12 @@ LuminaWall is a macOS wallpaper app built with SwiftUI. It manages a local libra
 ## Downloads
 [releases](https://github.com/blazfxx/Lumina-Wall/releases)
 
+
+## Coming Soon
+
+BEtter optimization settings
+Live wallappers on lock screen (No promises for this one)
+A Live Wallpaper Library (No promises either): Might be a community fed library...
+
 ## License
 Not specified.
